@@ -1,6 +1,7 @@
 def menu():
     print('Menu :')
-    print('1. Input data user')
-    print('2. Cetak')
-    print('3. Hapus user')
-    print('4. Keluar')
+    print('1. Input data mahasiswa')
+    print('2. Input nilai')
+    print('3. Cetak khs')
+    print('4. Hapus mahasiswa')
+    print('5. Keluar')
